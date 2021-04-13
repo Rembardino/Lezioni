@@ -4,15 +4,4 @@ channels:
 dependencies:
   - python 
   - matplotlib
-  - notebook
-  - numpy
-  - rise
-  - pandas
-  - pip
-  - scipy
-  - mdtraj
-  - cmake
-  - yaml
-  - ruamel_yaml
-  - clang_osx-64 
-  - clangxx_osx-64
+ 
